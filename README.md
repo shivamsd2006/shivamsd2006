@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm <SHIVAM DABRAL>! 👋
 
-<!--
-**shivamsd2006/shivamsd2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Relentless final year Information Technology student, driven by a curiosity for technology and a love for problem solving. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,sql)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+
+
+
+

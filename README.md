@@ -3,7 +3,7 @@
 I am a Relentless final year Information Technology student, driven by a curiosity for technology and a love for problem solving. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,prisamORM,tailwindcss,react,express,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,react,express,mongodb,postgresql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

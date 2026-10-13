@@ -1,4 +1,4 @@
-# Hi, I'm <SHIVAM DABRAL>! 👋
+# Hi, I'm SHIVAM DABRAL! 👋
 
 I am a Relentless final year Information Technology student, driven by a curiosity for technology and a love for problem solving. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
